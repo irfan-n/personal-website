@@ -1,8 +1,8 @@
 function sendMail(){
     var params = {
-        name:document.getElementById("name").Value,
-        email:document.getElementById("email").Value,
-        message:document.getElementById("message").Value,
+        name:document.getElementById("name").value,
+        email:document.getElementById("email").value,
+        message:document.getElementById("message").value,
 
     };
 
